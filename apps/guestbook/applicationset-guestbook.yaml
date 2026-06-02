@@ -10,7 +10,7 @@ spec:
   - list:
       elements:
       - env: dev
-        revision: develop
+        revision: main
       - env: staging
         revision: main
       - env: prod
